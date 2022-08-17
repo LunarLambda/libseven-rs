@@ -1,0 +1,3 @@
+[submodule "seven-sys/libseven"]
+	path = seven-sys/libseven
+	url = https://github.com/LunarLambda/libseven

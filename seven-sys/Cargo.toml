@@ -1,0 +1,8 @@
+[package]
+name = "seven-sys"
+version = "0.1.0"
+edition = "2021"
+links = "seven"
+
+[build-dependencies]
+bindgen = "0.60"
